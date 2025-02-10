@@ -1,0 +1,6 @@
+__pychache__
+idea
+venv
+.env
+users.db
+text_templates
