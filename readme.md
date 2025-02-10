@@ -33,8 +33,7 @@ Assistant - це багатофункціональний бот, який до�
    mkdir yourdir
    cd yourdir
    python -m venv venv
-   git clone 
-   cd assistant-bot
+   git clone https://github.com/den-deni/mybot.git
    ```
 
 2. Встановіть залежності:
